@@ -1,5 +1,5 @@
 # QuickVoice-Conversion
-QUICKVC: MANY-TO-ANY VOICE CONVERSION USING INVERSE SHORT-TIME FOURIER TRANSFORM FOR FASTER CONVERSION
+QuickVC: Many-to-any Voice Conversion Using Inverse Short-time Fourier Transform for Faster Conversion
 
 
 ## Demo
