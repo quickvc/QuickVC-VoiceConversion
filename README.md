@@ -3,7 +3,7 @@ QUICKVC: MANY-TO-ANY VOICE CONVERSION USING INVERSE SHORT-TIME FOURIER TRANSFORM
 
 
 ## Demo
-| Source | Target | **QuickVC-nosr** | **QuickVC-sr** | DiffVC | PPG-VC | VQMIVC |
+| Source | Target | ***QuickVC-nosr*** | ***QuickVC-sr*** | DiffVC | PPG-VC | VQMIVC |
 --- | --- | --- | --- | --- | --- | ---
 | neutral(source) | [sample1](https://drive.google.com/file/d/1E_maY9UfkzK8cy17vXkQWAou4ZlVWzCZ/view?usp=sharing) | [sample2](https://drive.google.com/file/d/1sHiHTECN1ZuXPbG66L8vkgbMi_HeXvCF/view?usp=sharing) | same as 1 | same as 2| same as 1 | same as 2|
 | to hap | [sample1](https://drive.google.com/file/d/1d_z3qFm-IRai_6cj7jk4fKPObgmY8Vbw/view?usp=sharing) | [sample2](https://drive.google.com/file/d/1GBPpXoQ57PhnAQwmzHKOjpPGTmSyJ8Xk/view?usp=sharing) | [sample1](https://drive.google.com/file/d/1sg7uM1o97hjqVL2vOo6sgwaxvKQXC-V1/view?usp=sharing) | [sample2](https://drive.google.com/file/d/126GXKS-yPO_qlNVnEJT7lHiBGbwuigZs/view?usp=sharing)| [sample1](https://drive.google.com/file/d/1oTjBxzv3IXcXFaTzW5Eya2daZBysihOe/view?usp=sharing) | [sample2](https://drive.google.com/file/d/1Fv7B1-SPil4OuRW-78PUZCMl_U4QruIz/view?usp=sharing)
