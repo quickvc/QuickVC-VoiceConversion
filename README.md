@@ -11,5 +11,5 @@ QUICKVC: MANY-TO-ANY VOICE CONVERSION USING INVERSE SHORT-TIME FOURIER TRANSFORM
 | [LJ032-0032](https://drive.google.com/file/d/1Flf3hToXHLWwcxZaq9qI6T6bR6voPDkS/view?usp=sharing) | [p229_006](https://drive.google.com/file/d/1cYFT_oy29N5STyZNt5ADRQvaRN5Rphea/view?usp=sharing) | [sample2](https://drive.google.com/file/d/1MMqGmy9Wdb4BHLCqn_tD7rAjz5mghMji/view?usp=sharing) |  [QVCsrLJtoP229](https://drive.google.com/file/d/1Sf-DrtW-PTv_V7HuC-niMTTI-I0qJi1G/view?usp=sharing) | [sample2](https://drive.google.com/file/d/1Bf-CGFdTt_IfWAx7YO_7p4HklTHL7K6c/view?usp=sharing) |[sample1](https://drive.google.com/file/d/1DVvha0XyyJMnJLylUPKaaLtCEZ4bN-MD/view?usp=sharing) | [sample2](https://drive.google.com/file/d/1UL9l0zdE8t80TTKVLSErHtmx8WMoH6OG/view?usp=sharing)
 
 ## Training
-### dependencies
-The code will opensource as soon as possible
+### Inference with pretrained model
+The code will opensource as soon as possible!
