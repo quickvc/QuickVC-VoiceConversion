@@ -16,6 +16,8 @@ This repository contains the open source code, audio samples and pretrained mode
 Sorry, but I will open source the code after the paper is accepted(or rejected).
 ## References
 If you have any question about the decoder, refer to [MS-ISTFT-VITS](https://github.com/MasayaKawamura/MB-iSTFT-VITS).
+
 If you have any question about the Hubert-soft, refer to [Soft-VC](https://github.com/bshall/hubert).
+
 If you have any question about the data augumentation, refer to [FreeVC](https://github.com/OlaWod/FreeVC).
 ## If you meet any problem, welcome to contact with me.
