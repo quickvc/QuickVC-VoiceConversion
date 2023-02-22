@@ -13,7 +13,7 @@ This repository contains the open source code, audio samples and pretrained mode
 
 
 ## Inference with pretrained model
-Sorry, but I will open source the code after the paper is accepted(or rejected).
+Sorry, but I will open source the code after the paper is accepted.
 ## References
 If you have any question about the decoder, refer to [MS-ISTFT-VITS](https://github.com/MasayaKawamura/MB-iSTFT-VITS).
 
