@@ -1,6 +1,6 @@
 # QuickVC
 This repository contains the open source code, audio samples and pretrained models of my paper: [QuickVC: Many-to-any Voice Conversion Using Inverse Short-time Fourier Transform for Faster Conversion](https://arxiv.org/abs/2302.08296)
-
+## [Demo Page](https://quickvc.github.io/quickvc-demo)
 <img src="qvcfinalwhite.png" width="100%">
 
 ## Demo
@@ -11,7 +11,11 @@ This repository contains the open source code, audio samples and pretrained mode
 | [LJ032-0032](https://drive.google.com/file/d/1Flf3hToXHLWwcxZaq9qI6T6bR6voPDkS/view?usp=sharing) | [p246_011](https://drive.google.com/file/d/1Py7n9P52IGJhLFnmEQ32jIbabny5W7mx/view?usp=sharing) | [QVCnosrLJtoP246](https://drive.google.com/file/d/1k8vdnotJXgi92Q2pmJSTDHLtBJNYiZ3d/view?usp=share_link)| [QVCsrLJtoP246](https://drive.google.com/file/d/1qROuQUeAd0Flumduzr-aCgz9l8SwqsIl/view?usp=sharing)| [DiffLJtoP246](https://drive.google.com/file/d/16Kwyo0jFnNIhO8gsXnY0PenQAS2SM8Kp/view?usp=share_link)| [PPGLJtoP246](https://drive.google.com/file/d/1c5qs8sm2hherKEMV6Rit6UIukkZTaW_j/view?usp=share_link) | [VQMIVCLJtoP246](https://drive.google.com/file/d/1LPGjS8xcCCTXmOVLIEANUX5bsv4T5O7w/view?usp=share_link)|
 | [LJ032-0032](https://drive.google.com/file/d/1Flf3hToXHLWwcxZaq9qI6T6bR6voPDkS/view?usp=sharing) | [p229_006](https://drive.google.com/file/d/1cYFT_oy29N5STyZNt5ADRQvaRN5Rphea/view?usp=sharing) | [QVCnosrLJtoP229](https://drive.google.com/file/d/1HrYIBPxpGr_8S6J4CpQUMbSIZw0tKvzd/view?usp=share_link) |  [QVCsrLJtoP229](https://drive.google.com/file/d/1Sf-DrtW-PTv_V7HuC-niMTTI-I0qJi1G/view?usp=sharing) | [DiffLJtoP229](https://drive.google.com/file/d/1mRjG2XoC9FgqwFRSYwpPxb_DMULQkfwS/view?usp=share_link)| [PPGLJtoP229](https://drive.google.com/file/d/1v6HrSMODsOpIDHORixO6GFTdvKdMplnw/view?usp=share_link) | [VQMIVCLJtoP229](https://drive.google.com/file/d/1FTIHZQkBs-AdTnacqsQ7u2O1Bgm4xsN5/view?usp=share_link)|
 
-## [Demo Page](https://quickvc.github.io/quickvc-demo)
 
 ## Inference with pretrained model
-The code will opensource as soon as possible!
+Sorry, but I will open source the code after the paper is accepted(or rejected).
+## References
+If you have any question about the decoder, refer to MS-ISTFT-VITS(https://github.com/MasayaKawamura/MB-iSTFT-VITS).
+If you have any question about the Hubert-soft, refer to Soft-VC(https://github.com/bshall/hubert).
+If you have any question about the data augumentation, refer to FreeVC(https://github.com/OlaWod/FreeVC).
+## If you meet any problem, welcome to contact with me.
