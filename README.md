@@ -1,5 +1,5 @@
 # QuickVC
-This repository contains the open source code, audio samples and pretrained models of my paper: [QuickVC: Any-to-many Voice Conversion Using Inverse Short-time Fourier Transform for Faster Conversion](https://arxiv.org/abs/2302.08296)
+This repository contains the open source code, audio samples and pretrained models of my paper: QuickVC: Any-to-many Voice Conversion Using Inverse Short-time Fourier Transform for Faster Conversion
 ## [Demo Page](https://quickvc.github.io/quickvc-demo)
 <img src="qvcfinalwhite.png" width="100%">
 
