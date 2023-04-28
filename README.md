@@ -3,6 +3,7 @@ This repository contains the open source code, audio samples and pretrained mode
 ## [Demo Page](https://quickvc.github.io/quickvc-demo)
 <img src="qvcfinalwhite.png" width="100%">
 
+##[Pretrained Model](https://drive.google.com/drive/folders/1DF6RgIHHkn2aoyyUMt4_hPitKSc2YR9d?usp=share_link)
 
 ## Inference with pretrained model
 ㄴpython convert.py
