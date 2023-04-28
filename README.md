@@ -10,14 +10,14 @@ Put pretrained model into logs/quickvc
 ```python
 python convert.py
 ```
+You can change convert.txt to select the target and source
 ## Preprocess
 1. Hubert-Soft
 ```python
 cd dataset
 python encode.py soft dataset/VCTK-16K dataset/VCTK-16K
 ```
-2. Spectrogram resize data augumentation
-Please refer to [FreeVC](https://github.com/OlaWod/FreeVC).
+2. Spectrogram resize data augumentation, please refer to [FreeVC](https://github.com/OlaWod/FreeVC).
 
 ## Train
 
