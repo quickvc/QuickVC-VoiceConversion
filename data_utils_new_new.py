@@ -264,11 +264,7 @@ if __name__ == "__main__":
     collate_fn = TextAudioSpeakerCollate(hps)
     train_loader = DataLoader(train_dataset, num_workers=1, shuffle=False, pin_memory=True,
         collate_fn=collate_fn, batch_sampler=train_sampler)
-    """
-    train_dataset = TextAudioSpeakerLoader("C:/Users/32450/Desktop/guohoujian/code/HubertminiVITS/dataset/vctk/train.txt", hps)
-    train_loader = DataLoader(train_dataset, num_workers=1, shuffle=False, pin_memory=True,
-      batch_size=48)
-    """
+
     for batch_idx, (c, spec, y) in enumerate(train_loader):
         print(c.size(), spec.size(), y.size())
         #print(batch_idx, c, spec, y)
