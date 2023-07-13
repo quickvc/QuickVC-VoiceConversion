@@ -32,6 +32,11 @@ parser.add_argument('-m', '--model', type=str,default="quickvc",help='Model name
 ```                   
 in utils.py
 
+In order to use the sr during training, change [this part](https://github.com/quickvc/QuickVC-VoiceConversion/blob/277118de9c81d1689e16be8a43408eda4223553d/data_utils_new_new.py#L70) to
+```python
+i = random.randint(68,92)
+c_filename = filename.replace(".wav", f"_{i}.npy")
+```    
 ## References
 If you have any question about the decoder, refer to [MS-ISTFT-VITS](https://github.com/MasayaKawamura/MB-iSTFT-VITS).
 
